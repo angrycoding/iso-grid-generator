@@ -6,4 +6,4 @@ allows you to generate isometric grid background using two simple sliders (contr
 and then download it as png image (done using data:uri protocol, so might not work everywhere).
 You can also check the source code yourself and see how it's done.
 
-[See the live demo here](http://angrycoding.github.com/iso-grid-generator/)
+[See the live demo here](http://angrycoding.github.io/iso-grid-generator/)
